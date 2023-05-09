@@ -1,0 +1,205 @@
+@import url(https://fonts.googleapis.com/css?family=Dancing+Script:100,200,300,400,500,600.700|Exo:100,200,300,400,500,600.700);
+
+/*---------------------------Colors*/
+.bg-color-name-title {
+    background-color: #f6aade;
+    width: 1330px;
+    height: 260px;
+}
+
+.ui-menu-color-home {
+    background-color: #f5a2da;
+}
+
+.ui-menu-color-menu {
+    background-color: #f578cd;
+}
+
+.ui-menu-color-contact {
+    background-color: #ed21ad;
+}
+
+
+/*----------------------------Headings*/
+
+header {
+    margin:0;
+}
+
+.heading{
+    margin-left: 50px;
+    padding-bottom: 15px;
+}
+
+.logo {
+    background-image: url("../images/logo.jpg");
+    background-position: top left;
+    background-repeat: no-repeat;
+    min-height: 20px;
+    min-width: 13px;
+}
+
+.title {
+    font-family: "Exo", sans-serif;
+    font-weight:100;
+    font-size: 60px;
+    margin-top: 50px;
+    color: #fff;
+}
+
+.title2 {
+    font-family: "Dancing Script", sans-serif;
+    font-weight: 100;
+    font-size: 60px;
+    margin-top: 25px;
+    margin-left: 100px;
+    color: #fff;
+}
+
+.list-inline-item:not(:last-child) {
+    margin: 0;
+}
+
+.menu {
+    font-size: 0;
+}
+
+#nav-bar li {
+    font-size: 14px;
+    padding: 0;
+}
+
+#nav-bar {
+    margin: 0;
+    overflow: hidden;
+    float: right;
+    padding-top: 15px;
+}
+
+.menuitem {
+    height: 120px;
+    width: 260px;
+    text-align: center;
+    padding: 0;
+}
+
+.menuitem a {
+    width: 100%;
+    text-decoration: none;
+    color: #fff;
+    height: 120px;
+}
+
+.menuitem a i {
+    padding-top: 22px;
+    display: block;
+    color: #fafafa;
+    font-size: 26px;
+}
+
+.menuitem span {
+    display: block;
+    width: 100%;
+    padding-top: 5px;
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+/*--------------------Body*/
+
+.video {
+    height: 1000px;
+    width: 1440px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.image {
+    float: right;
+}
+
+
+.about-us, .image {
+    background: #f5a2da;
+    height: 400px;
+    width: 720px;
+    padding: 15px;
+}
+
+.map {
+    text-align: center;
+}
+
+body {
+    background: #efbbde;
+}
+
+/*-------------------Menu.html*/
+
+.menu-title {
+    font-family: "Dancing Script", sans-serif;
+    font-size: 50;
+    font-weight: 200;
+    margin-top: 50px;
+    color: #fff;
+    padding: 15px;
+}
+/*-------------------Hover.css*/
+
+.hvr-sweep-to-top:before {
+    background: rgba(0, 0, 0, 0.2);
+    height: 120px;
+}
+
+/*-------------------Special padding*/
+
+h1,
+h2,
+h3,
+h4 {
+    margin: 0;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.font {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    color: #fafafa;
+}
+
+/*-------------------Footer*/
+
+footer {
+    background: #f6aade;
+    text-align: center;
+    min-height: 60px;
+}
+
+
+.socials {
+    padding-bottom: 15px;
+    padding-top: 20px;
+    float: right;
+}
+
+.socials li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #f5a2da;
+    transition: all 0.35s ease-in-out;
+}
+
+.socials li a i:hover {
+    background: #ed21ad;
+}
