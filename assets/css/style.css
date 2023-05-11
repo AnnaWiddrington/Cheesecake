@@ -161,6 +161,7 @@ body {
     font-weight: 600;
     padding: 30px;
     color: #d14b07;
+    display: inline-block;
 }
 
 #photos {
@@ -172,6 +173,15 @@ body {
 
 #photos img {
     width: 100%;
+}
+
+.info {
+    font-family: 'Exo', sans-serif;
+    font-size: 30;
+    font-weight: 600;
+    padding: 30px;
+    color: #d14b07; 
+    display: inline-block;
 }
 
 /*-------------------Hover.css*/
