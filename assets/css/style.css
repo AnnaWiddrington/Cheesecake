@@ -140,12 +140,35 @@ body {
 
 .menu-title {
     font-family: "Dancing Script", sans-serif;
-    font-size: 50;
-    font-weight: 200;
+    font-size: 60;
+    font-weight: 400;
     margin-top: 50px;
     color: #fff;
     padding: 15px;
 }
+
+.flavours {
+    font-family: "Exo", sans-serif;
+    font-size: 38;
+    font-weight: 600;
+    padding: 15px;
+    color: #fff;
+}
+
+.examples {
+    font-family: 'Exo', sans-serif;
+    font-size: 30;
+    font-weight: 600;
+    padding: 30px;
+    color: #d14b07;
+}
+
+.photos {
+    clear: both;
+    line height: 0;
+    
+}
+
 /*-------------------Hover.css*/
 
 .hvr-sweep-to-top:before {
