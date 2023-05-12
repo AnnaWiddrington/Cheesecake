@@ -194,7 +194,31 @@ body {
 
 /*-------------------Contact*/
 
+.button {
+    background-color: #ed21ad;
+    color: #fff;
 
+}
+
+legend {
+    font-size: 28;
+    font-weight: 200;
+}
+
+legend, label, .contact {
+    font-family: "Exo", sans-serif;
+    color: #1d0a01;
+    font-size: 23;
+}
+
+form {
+    display: inline-block;
+}
+
+.contact-us {
+    float: right;
+    display: inline;
+}
 
 /*-------------------Hover.css*/
 
