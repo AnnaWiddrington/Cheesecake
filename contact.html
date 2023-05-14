@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
     <title>Love, Elle-Leigh Cheesecakes</title>
 </head>
-<bod>
+<body>
     <header>
         <div class="row no-gutters">
             <div class="col">
@@ -39,74 +39,76 @@
             </div>
         </div>
     </header>
-    <section>
-        <form action="https://formdump.codeinstitute.net/" method="POST">
-            <fieldset>
-                <legend>Details</legend>
-                <label for="fname">First Name</label>
-                <input type="text" name="fname" id="fname" required>
-                <label for="lname">Last Name</label>
-                <input type="text" name="lname" id="lname" required>
-            </fieldset>
-            <fieldset>
-                <legend>Contact Information</legend>
-                <label for="email">Email Address</label>
-                <input type="email" name="email" id="email" required>
-            </fieldset>
-            <fieldset>
-                <legend>Cheesecake Selection</legend>
-                    <input type="radio" name="flavour" value="key-lime" id="key-lime" required>
-                    <label for="key-lime">Key Lime Cheesecake</label>
-                    <br>
-                    <input type="radio" name="flavour" value="eton-mess" id="eton-mess">
-                    <label for="eton-mess">Eton Mess Cheesecake</label>
-                    <br>
-                    <input type="radio" name="flavour" value="strawberry" id="strawberry">
-                    <label for="strawberry">Strawberry Shortcake</label>
-                    <br>
-                    <input type="radio" name="flavour" value="mango_passion" id="mango_passion">
-                    <label for="mango_passion">Mango and Passionfruit Cheesecake</label>
-                    <br>
-                    <input type="radio" name="flavour" value="lemon" id="lemon">
-                    <label for="lemon">Lemon Cheesecake</label>
-                    <br>
-                    <input type="radio" name="flavour" value="gingerbread" id="gingerbread">
-                    <label for="gingerbread">Gingerbread Cheesecake</label>
-                    <br>
-                    <input type="radio" name="flavour" value="white_choco" id="white_choco">
-                    <label for="white_choco">White Chocolate and Red Berry Cheesecake</label>
-                    <br>
-                    <input type="radio" name="flavour" value="other" id="other">
-                    <label for="other">Other</label>
-                    <br>
-                    <textarea id="request" cols="15" rows="2" name="request" placeholder="Please provide the flavour you would like"></textarea>
-            </fieldset>
-            <fieldset>
-                <legend>Dietary requirements</legend>
-                <textarea id="diet" cols="50" rows="1" name="diet" placeholder="Please provide details of any dietry requirements"></textarea>
-            </fieldset>
-            <fieldset>
-                <legend>When do you need your order for?</legend>
-                <label for="date">Date</label>
-                <input type="date" id="date" name="date" required>
-            </fieldset>
-            <fieldset>
-                <legend>Any other details</legend>
-                <textarea id="details" cols="50" rows="3" placeholder="Please provide any further details we may need to know e.g. large cheesecake or small individual cheesecakes."></textarea>
-            </fieldset>
-            <br>
-            <input type="submit" value="Send" class="button">
-        </form>
-        <div class="contact-us">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d18329.482717180592!2d-1.6647721000625533!3d54.952314556981314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2suk!4v1683022038695!5m2!1sen!2suk" width="500" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-            <br>
-            <p class="contact">
-                For any general enquiries please contact us via email at:
+    <main>
+        <section>
+            <form action="https://formdump.codeinstitute.net/" method="POST">
+                <fieldset>
+                    <legend>Details</legend>
+                    <label for="fname">First Name</label>
+                    <input type="text" name="fname" id="fname" required>
+                    <label for="lname">Last Name</label>
+                    <input type="text" name="lname" id="lname" required>
+                </fieldset>
+                <fieldset>
+                    <legend>Contact Information</legend>
+                    <label for="email">Email Address</label>
+                    <input type="email" name="email" id="email" required>
+                </fieldset>
+                <fieldset>
+                    <legend>Cheesecake Selection</legend>
+                        <input type="radio" name="flavour" value="key-lime" id="key-lime" required>
+                        <label for="key-lime">Key Lime Cheesecake</label>
+                        <br>
+                        <input type="radio" name="flavour" value="eton-mess" id="eton-mess">
+                        <label for="eton-mess">Eton Mess Cheesecake</label>
+                        <br>
+                        <input type="radio" name="flavour" value="strawberry" id="strawberry">
+                        <label for="strawberry">Strawberry Shortcake</label>
+                        <br>
+                        <input type="radio" name="flavour" value="mango_passion" id="mango_passion">
+                        <label for="mango_passion">Mango and Passionfruit Cheesecake</label>
+                        <br>
+                        <input type="radio" name="flavour" value="lemon" id="lemon">
+                        <label for="lemon">Lemon Cheesecake</label>
+                        <br>
+                        <input type="radio" name="flavour" value="gingerbread" id="gingerbread">
+                        <label for="gingerbread">Gingerbread Cheesecake</label>
+                        <br>
+                        <input type="radio" name="flavour" value="white_choco" id="white_choco">
+                        <label for="white_choco">White Chocolate and Red Berry Cheesecake</label>
+                        <br>
+                        <input type="radio" name="flavour" value="other" id="other">
+                        <label for="other">Other</label>
+                        <br>
+                        <textarea id="request" cols="15" rows="2" name="request" placeholder="Please provide the flavour you would like"></textarea>
+                </fieldset>
+                <fieldset>
+                    <legend>Dietary requirements</legend>
+                    <textarea id="diet" cols="50" rows="1" name="diet" placeholder="Please provide details of any dietry requirements"></textarea>
+                </fieldset>
+                <fieldset>
+                    <legend>When do you need your order for?</legend>
+                    <label for="date">Date</label>
+                    <input type="date" id="date" name="date" required>
+                </fieldset>
+                <fieldset>
+                    <legend>Any other details</legend>
+                    <textarea id="details" cols="50" rows="3" placeholder="Please provide any further details we may need to know e.g. large cheesecake or small individual cheesecakes."></textarea>
+                </fieldset>
                 <br>
-                love,elle-leighcheesecakes@hotmail.com
-            </p>
-        </div>
-    </section>
+                <input type="submit" value="Send" class="button">
+            </form>
+            <div class="contact-us">
+                <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d18329.482717180592!2d-1.6647721000625533!3d54.952314556981314!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2suk!4v1683022038695!5m2!1sen!2suk" width="500" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <br>
+                <p class="contact">
+                    For any general enquiries please contact us via email at:
+                    <br>
+                    love,elle-leighcheesecakes@hotmail.com
+                </p>
+            </div>
+        </section>
+    </main>
    <footer class="container-fluid">
             <div>
                 <ul class="list-inline socials">
