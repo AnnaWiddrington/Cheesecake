@@ -57,6 +57,12 @@ header {
     color: #fff;
 }
 
+@media screen and (max-width: 600px) {
+    .title2 {
+        margin-left: auto;
+    }
+}
+
 .list-inline-item:not(:last-child) {
     margin: 0;
 }
@@ -117,22 +123,27 @@ header {
     padding-bottom: 5px;
 }
 
-.image {
-    clear: both;
+
+@media screen and (max-width: 600px) {
+    div.image img {
+        width: 100%;
+    }
 }
 
 
 .about-us, .image {
     background: #f5a2da;
     min-height: 400px;
-    min-width: 720px;
+    width: auto;
     padding: 15px;
 }
 
 .map {
     text-align: center;
-    display: inline;
     clear: both;
+    width:auto;
+    min-height: 500px;
+    display: inline-block;
 }
 
 body {
@@ -140,9 +151,10 @@ body {
 }
 
 #carousel {
-    width: 750px;
     height: 750px;
+    width: 750px;
     display: inline-block;
+    padding-right: 10px;
 }
 
 /*-------------------Menu.html*/
@@ -212,20 +224,30 @@ legend, label, .contact {
     font-size: 23;
 }
 
+
 form {
     display: inline-block;
     padding: 15px;
+    width: auto;
 }
 
+
 .contact-us {
-    clear: both;
+    float: right;
     display: inline;
+}
+
+@media screen and (max-width: 600px) {
+    .contact-us {
+        width: auto;
+    }
 }
 
 .contact {
     clear: both;
     padding: 15px;
 }
+
 
 /*-------------------Hover.css*/
 
