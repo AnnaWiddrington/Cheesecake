@@ -39,3 +39,19 @@ image
         *As a business owner I would like to provide my customers with an easy to use website where they are able to get as much information as possible without being required to contact the business.
         *As a business owner I wish to provide a way for my customers to contact the business easily. 
         *As a business owner I require my customers to provide me with all the information needed on the first point of contact, making the process more efficent for both user and business owner.
+
+#Design
+    ##Wireframes
+    Wireframes for this project were produced using [Balsamiq wireframes] (https://balsamiq.com).
+    Home Page wireframes:
+    ![Home page wireframe for desktop] (readme-files/desktop/home-page.bmpr)
+    ![Home page wireframe for tablet] (readme-files/tablet/ipad-home.bmpr)
+    ![Home page wireframe for mobile] (readme-files/mobile/mobile-home.bmpr)
+    Menu Page wireframes:
+    ![Menu page wireframe for desktop] (readme-files/desktop/menu-page.bmpr)
+    ![Menu page wireframe for tablet] (readme-files/tablet/ipad-menu.bmpr)
+    ![Menu page wireframe for mobile] (readme-files/mobile/mobile-menu.bmpr)
+    Contact Page wireframes:
+    ![Contact page wireframe for desktop] (readme-files/desktop/contact-page.bmpr)
+    ![Contact page wireframe for tablet] (readme-files/tablet/ipad-contact.bmpr)
+    ![Contact page wireframe for mobile] (readme-files/mobile/mobile-contact.bmpr)
