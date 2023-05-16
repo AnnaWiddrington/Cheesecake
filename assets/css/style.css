@@ -44,7 +44,7 @@ header {
     font-weight:100;
     font-size: 60px;
     margin-top: 50px;
-    color: #fff;
+    color: #2e2e2e;
     width: 100%;
 }
 
@@ -54,7 +54,7 @@ header {
     font-size: 60px;
     margin-top: 25px;
     margin-left: 100px;
-    color: #fff;
+    color: #2e2e2e;
 }
 
 @media screen and (max-width: 600px) {
@@ -93,14 +93,14 @@ header {
 .menuitem a {
     width: 100%;
     text-decoration: none;
-    color: #fff;
+    color: #2e2e2e;
     height: 120px;
 }
 
 .menuitem a i {
     padding-top: 22px;
     display: block;
-    color: #fafafa;
+    color: #2e2e2e;
     font-size: 26px;
 }
 
@@ -157,6 +157,18 @@ body {
     padding-right: 10px;
 }
 
+.test-1 {
+    color:#737369;
+}
+
+.test-2 {
+    color: #fff;
+}
+
+.test-3 {
+    color:#fff;
+}
+
 /*-------------------Menu.html*/
 
 .menu-title {
@@ -164,7 +176,7 @@ body {
     font-size: 60;
     font-weight: 400;
     margin-top: 50px;
-    color: #fff;
+    color: #2e2e2e;
     padding: 15px;
 }
 
@@ -173,7 +185,7 @@ body {
     font-size: 38;
     font-weight: 600;
     padding: 15px;
-    color: #fff;
+    color: #2e2e2e;
 }
 
 .examples {
@@ -181,7 +193,7 @@ body {
     font-size: 30;
     font-weight: 600;
     padding: 30px;
-    color: #d14b07;
+    color: #2e2e2e;
     display: inline-block;
 }
 
@@ -201,15 +213,15 @@ body {
     font-size: 30;
     font-weight: 600;
     padding: 30px;
-    color: #d14b07; 
+    color: #2e2e2e; 
     display: inline-block;
 }
 
 /*-------------------Contact*/
 
 .button {
-    background-color: #ed21ad;
-    color: #fff;
+    background-color: #f25fc3;
+    color: #000;
 
 }
 
@@ -272,7 +284,7 @@ h4 {
 .font {
     font-family: "Exo", sans-serif;
     font-weight: 300;
-    color: #fafafa;
+    color: #2e2e2e;
 }
 
 /*-------------------Footer*/
@@ -298,7 +310,7 @@ footer {
     font-size: 13px;
     line-height: 7px;
     text-align: center;
-    color: #fafafa;
+    color: #2e2e2e;
     background: #f5a2da;
     transition: all 0.35s ease-in-out;
 }
