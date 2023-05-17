@@ -11,7 +11,7 @@ image
     *[**Typography**](<#typography>)
     *[**Imagery**](<#imagery>)
     *[**Colour Scheme**](<#colour>)
-*[**Features](<#features>)
+*[**Features**](<#features>)
     *[**Current Features**](<#current>)
     *[**Future Features**](<#future>)
 *[**Technologies Used**](<#technology>)
@@ -66,3 +66,9 @@ image
 
     ##Imagery
     The image used for the websites logo was sourced from [iStock](https://www.istockphoto.com). The video was sourced from [Vecteezy](https://www.vecteezy.com) as were the majority of images used for the menu and home page. Three of the images used on the menu page were taken by myself.
+    [Font Awesome](https://fontawesome.com) was also used for all icons used throughout the website.
+
+    ##Colour Scheme
+    In order to make the website attractive I wanted to keep the colours used varying shades of the same colour, this allowed there to be consistency throughout the website. In order to find font colours which worked with the background colours I had, I used [WebAim](https://webaim.org/) in order to test the level of colour contrast. 
+    A colour palette was also produced using [Coolors](https://coolors.co) this allowed me to see how well the background colours and font colours worked together.
+    [Colour Palette](readme-files/colour-palette.png)
