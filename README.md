@@ -59,3 +59,7 @@ image
     ##Site Structure
     Love, Elle-Leigh Cheesecakes is a three page website providing information on the business and the service they provide, the default loading page is the [Home Page](index.html). Other pages on the site include the [Menu Page](menu.html) and the [Contact Page](contact.html). The Navbar on the top right allows the user to navigate between all three pages, pressing on the logo at the top of the page will also return the user to the home page.
     The pages footer also contains external links to Facebook, Instagram and Twitter.
+
+    ##Typography
+    [Google Fonts](https://fonts.google.com) was used for Love, Elle-Leigh Cheesecakes. The main font used throughout the site is Exo, this is due to it being clear and easy to read. The Dancing Script font was also used for the "Elle-Leigh cheesecakes x" part of the title, this was to help that part of the title stand out to the user, this type of font is also more associated with elegance. Various part so the site use different font-weights these are between 100-700.
+    The backup font for all sections in the event they are unable to load and fail is sans serif. This font was chosen due to it easy accessibility.
