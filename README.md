@@ -9,7 +9,7 @@ image
     *[**Wireframes**](<#wireframes>)
     *[**Site Structure**](<#site-structure>)
     *[**Typography**](<#typography>)
-    *[**Imgery**](<#imagery>)
+    *[**Imagery**](<#imagery>)
     *[**Colour Scheme**](<#colour>)
 *[**Features](<#features>)
     *[**Current Features**](<#current>)
@@ -63,3 +63,6 @@ image
     ##Typography
     [Google Fonts](https://fonts.google.com) was used for Love, Elle-Leigh Cheesecakes. The main font used throughout the site is Exo, this is due to it being clear and easy to read. The Dancing Script font was also used for the "Elle-Leigh cheesecakes x" part of the title, this was to help that part of the title stand out to the user, this type of font is also more associated with elegance. Various part so the site use different font-weights these are between 100-700.
     The backup font for all sections in the event they are unable to load and fail is sans serif. This font was chosen due to it easy accessibility.
+
+    ##Imagery
+    The image used for the websites logo was sourced from [iStock](https://www.istockphoto.com). The video was sourced from [Vecteezy](https://www.vecteezy.com) as were the majority of images used for the menu and home page. Three of the images used on the menu page were taken by myself.
