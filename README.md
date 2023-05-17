@@ -5,22 +5,22 @@ image
 
 #Table of Contents
 *[**User Exerience (UX)**](<#ux>)
-*[**Design**] (<#design>)
-    *[**Wireframes**] (<#wireframes>)
-    *[**Site Structure**] (<#site-structure>)
-    *[**Typography**] (<#typography>)
-    *[**Imgery**] (<#imagery>)
-    *[**Colour Scheme**] (<#colour>)
-*[**Features] (<#features>)
-    *[**Current Features**] (<#current>)
-    *[**Future Features**] (<#future>)
-*[**Technologies Used**] (<#technology>)
-*[**Testing**] (<#testing>)
+*[**Design**](<#design>)
+    *[**Wireframes**](<#wireframes>)
+    *[**Site Structure**](<#site-structure>)
+    *[**Typography**](<#typography>)
+    *[**Imgery**](<#imagery>)
+    *[**Colour Scheme**](<#colour>)
+*[**Features](<#features>)
+    *[**Current Features**](<#current>)
+    *[**Future Features**](<#future>)
+*[**Technologies Used**](<#technology>)
+*[**Testing**](<#testing>)
     *[**W3C validation**](<#w3c>)
-        *[**HTML Validation**] (<#html>)
-        *[**CSS Validation**] (<#css>)
-    *[**User Experience Testing**] (<#user-experience>)
-    *[**Known Bugs or Issues**] (<#bugs>)
+        *[**HTML Validation**](<#html>)
+        *[**CSS Validation**](<#css>)
+    *[**User Experience Testing**](<#user-experience>)
+    *[**Known Bugs or Issues**](<#bugs>)
 
 #User Experience (UX)
 
@@ -42,16 +42,20 @@ image
 
 #Design
     ##Wireframes
-    Wireframes for this project were produced using [Balsamiq wireframes] (https://balsamiq.com).
+    Wireframes for this project were produced using [Balsamiq wireframes](https://balsamiq.com).
     Home Page wireframes:
-    ![Home page wireframe for desktop] (readme-files/desktop/home-page.bmpr)
-    ![Home page wireframe for tablet] (readme-files/tablet/ipad-home.bmpr)
-    ![Home page wireframe for mobile] (readme-files/mobile/mobile-home.bmpr)
+    ![Home page wireframe for desktop](readme-files/desktop/home-page.bmpr)
+    ![Home page wireframe for tablet](readme-files/tablet/ipad-home.bmpr)
+    ![Home page wireframe for mobile](readme-files/mobile/mobile-home.bmpr)
     Menu Page wireframes:
-    ![Menu page wireframe for desktop] (readme-files/desktop/menu-page.bmpr)
-    ![Menu page wireframe for tablet] (readme-files/tablet/ipad-menu.bmpr)
-    ![Menu page wireframe for mobile] (readme-files/mobile/mobile-menu.bmpr)
+    ![Menu page wireframe for desktop](readme-files/desktop/menu-page.bmpr)
+    ![Menu page wireframe for tablet](readme-files/tablet/ipad-menu.bmpr)
+    ![Menu page wireframe for mobile](readme-files/mobile/mobile-menu.bmpr)
     Contact Page wireframes:
-    ![Contact page wireframe for desktop] (readme-files/desktop/contact-page.bmpr)
-    ![Contact page wireframe for tablet] (readme-files/tablet/ipad-contact.bmpr)
-    ![Contact page wireframe for mobile] (readme-files/mobile/mobile-contact.bmpr)
+    ![Contact page wireframe for desktop](readme-files/desktop/contact-page.bmpr)
+    ![Contact page wireframe for tablet](readme-files/tablet/ipad-contact.bmpr)
+    ![Contact page wireframe for mobile](readme-files/mobile/mobile-contact.bmpr)
+
+    ##Site Structure
+    Love, Elle-Leigh Cheesecakes is a three page website providing information on the business and the service they provide, the default loading page is the [Home Page](index.html). Other pages on the site include the [Menu Page](menu.html) and the [Contact Page](contact.html). The Navbar on the top right allows the user to navigate between all three pages, pressing on the logo at the top of the page will also return the user to the home page.
+    The pages footer also contains external links to Facebook, Instagram and Twitter.
