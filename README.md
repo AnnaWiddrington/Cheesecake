@@ -231,3 +231,47 @@ There are a number of features which I would like to be able to implement in the
     * I would like to have a modal open when a successful form is submitted thanking the user and informing them that someone will be in contact soon to confirm their order.
     * I would like to be able to include a payment option in order to streamline the ordering process.
     * I would like to include a more interactive image gallery which is more responsive across devices.
+
+# Deployment
+    ## GitHub Pages
+     Love, Elle-Leigh Cheesecakes was deployed in GitHub Pages using the following steps:
+        1. Login to the github website and locate the required repository
+        2. At the top of the repository page locate the settings tab. Select this.
+        3. On the left hand side of the page under the "Code and automation" heading locate "Pages" and select
+        4. Ensure that the source is set to Deploy from a branch
+        5. Use the dropdown menu under branch to change the option from "none" to "main" and press save.
+        6. The page will automatically refresh.
+        7. On refresh there will be a link to the live site at the top of the page.
+    
+    ## Forking the GitHub Repository
+    Forking refers to making a copy of the original GitHub repository within your GitHub account allowing you to view and/or make changes to the website without affecting the original repository. Forks are automatically created when you do not have the correct permission to clone a repository. This can be achieved by completing the following steps:
+        1. Login to GitHub and select the correct repository.
+        2. At the top of the page on the right there is a button called "fork".
+        3. If you do not own the repository you are able to press this to create a fork.
+    
+    ## Cloning a repository
+    Cloning a repository allows the user to make a local copy of any repository. This can be done in one of two ways:
+        *GitHub Desktop
+            1. Login to Github desktop.
+            2. Select file from the top of the screen.
+            3. Select clone repository.
+            4. Select the repository you wish to clone from the list.
+            5. Press clone.
+        *GitHub
+            1. Login to GitHub and find the repository you wish to clone.
+            2. Click the green code button.
+            3. Press "open with GitHub Desktop" to create a clone.
+
+# Credits
+Imagery credits can be found in the Imagery section in this README file.
+Further credit should be given to:
+    * [Bootstrap](https://getbootstrap.com) - This was used to help structure the webpage, including the navbar, carousel, header and footer. 
+    * [Code Institute](https://learn.codeinstitute.net/dashboard) - I was able to look back on the lessons to remind myself of how to write certain elements. I also used the masonary layout for the images on the menu page from the love running project. This was restyled for my own purposes.
+    *[Hover.css](https://cdnjs.cloudflare.com/ajax/libs/hover.css/2.1.1/css/hover-min.css) - Used to add the "sweep to the top" funtion on the navbar.
+    * [Coolers](https://coolors.co) - Used to create color pallettes.
+    *[WebAim](https://webaim.org/resources/contrastchecker/) - Used as a colour contrast tester to ensure the website's colours worked and everything was easy to see/read.
+    *[W3 Schools](https://www.w3schools.com) - Used for coding advice, and reminders on how to write certain features.
+    * [Slack](https://slack.com/intl/en-gb/) Used for advice and to search for code fixes when required.
+
+# Acknowledgements
+    *
