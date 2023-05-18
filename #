@@ -142,17 +142,4 @@ image
 # Testing
 Testing was involved at every stage of the devlopment process of making the Love, Elle-Leigh Cheesecakes website. This ongoing progress was achieved using Firefox Developer Edition.
 The website was tested through out to ensure its responsiveness on a variety of devices. The site was also checked in the the W3c validation checker for both HTML and CSS.
-*This website was tested using Firefox Developer Edition, Google Chrome, Safari and Microsoft Edge.
-*The website was viewed on a variety of screen sizes including: desktops, laptops, tablets and mobile, this includes both android and apple devices.
-*Testing was completed to ensure all links worked as expected.
-
-    ## W3C validation
-    Both the HTML and CSS of this site were valiudated using the W3C Validator.
-
-        ### HTML Validation
-        The HTML for all three pages on this website was tested through the W3C validator. This was returned with no errors or warnings to show.
-        [HTML Validator](readme-files/Screenshot%202023-05-18%20at%2018-05-54%20Showing%20results%20for%20https%20__annawiddrington.github.io_Cheesecake_index.html%20-%20Nu%20Html%20Checker.png)
-
-        ### CSS Validation
-        The CSS for this website was tested through the CSS validator. The result of this is that there were no errors found.
-        [CSS Validator](readme-files/Screenshot%202023-05-18%20at%2018-06-43%20W3C%20CSS%20Validator%20results%20for%20TextArea%20(CSS%20level%203%20SVG).png)
+*This website was tested in 
