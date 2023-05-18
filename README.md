@@ -177,10 +177,44 @@ The website was tested through out to ensure its responsiveness on a variety of 
     * As a user I would like to be able to use this site on any device.
         * Expectation
             * For the website to be responsive on a variety of devices and browsers.
-        *Action
-            *Test the reponsiveness of the site for different device sizes as well as, on a variety of different browsers
-        *Result
-            *When tested on different device sizes the site was found to respond to the different size without significant changes to the layout of the website.
-            *When tested on a variety of browsers the website was found to work on all types without any changes to the website layout.
+        * Action
+            * Test the reponsiveness of the site for different device sizes as well as, on a variety of different browsers
+        * Result
+            * When tested on different device sizes the site was found to respond to the different size without significant changes to the layout of the website.
+            * When tested on a variety of browsers the website was found to work on all types without any changes to the website layout.
 
+    * As a user I wish to be able to find the websites social media pages through the website.
+        * Expectation
+            * To have easy access to the websites social media links through the website. 
+            * For these pages to open in a new window.
+        * Action
+            * Testing the social media links in the websites footer to ensure they lead to the correct website and to ensure they opened in a new tab.
+        * Result
+            * When clicked all social media links opened in new tabs and opened to the corresponding website.
+        
+    * As a user I would like to find out what flavours of cheesecake are available, as well as, if I am able to suggest my own.
+        * Expectation 
+            * To be able to find a list of cheesecake flavours available.
+            * For there to be information on whether or not the user is able to ask for an alternative flavour to those listed.
+        * Action
+            * To navigate through the site to see if the information required is available.
+        * Result
+            * The information on the possible cheesecake flavours and whether or not alternative flavours could be requested was found on both the Menu page and the Contact page.
+            * The contact page also provided the user with a way to communicate which flavour they wished to order.
+    * As a user I wish to be able to easily contact the business in order to have any queries answered or in order to place an order with ease.
+        * Expectation
+            * To find a way to contact the buisness regarding enquiries, as well as, a way to put in an order to the business.
+        * Action
+            * Navigate to the contact page in order to locate any ways in which there are to contact the buisness.
+        *Result
+            * On the contact page there were two ways in which to contact the business found.
+            * An email address was provided for the user to contact the business regarding any general enquiries.
+            * A contact form was also provided for the user to place an order with the company.
     
+    * As a user I require to know if the buisness is able to cater to my dietary needs.
+        * Expectation 
+            * To find out whether or not the business is able to cater to dietary needs.
+        *Action
+            * To navigate through the site to see if the information is available.
+        *Result
+            * On the contact page, within the contact form, there is a section where the user is able to specify any dietary requirements they may have.
