@@ -51,8 +51,8 @@ The aim of Love, Elle-Leigh Cheesecakes is to provide potential or returning cus
 ## Wireframes
 Wireframes for this project were produced using [Balsamiq wireframes](https://balsamiq.com).
 Home Page wireframes:
-![Home page wireframe for desktop](https://github.com/AnnaWiddrington/Cheesecake/blob/main/Readme-files/desktop/home-page.jpg?raw=true)
-![Home page wireframe for tablet](https://github.com/AnnaWiddrington/Cheesecake/blob/main/Readme-files/tablet/home-page.jpg?raw=true)
+![Home page wireframe for desktop](../Cheesecake/readme-files/desktop/home-page.jpg)
+![Home page wireframe for tablet](../Cheesecake/readme-files/tablet/ipad-home.bmpr)
 ![Home page wireframe for mobile](../Cheesecake/readme-files/mobile/mobile-home.bmpr)
 Menu Page wireframes:
 ![Menu page wireframe for desktop](../Cheesecake/readme-files/desktop/menu-page.bmpr)
