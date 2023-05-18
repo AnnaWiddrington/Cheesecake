@@ -21,6 +21,7 @@ image
         * [**CSS Validation**](<#css>)
     * [**User Experience Testing**](<#user-experience>)
     * [**Known Bugs or Issues**](<#bugs>)
+* [**Future Implementations**] (<#implementations>)
 
 # User Experience (UX)
 
@@ -218,3 +219,15 @@ The website was tested through out to ensure its responsiveness on a variety of 
             * To navigate through the site to see if the information is available.
         *Result
             * On the contact page, within the contact form, there is a section where the user is able to specify any dietary requirements they may have.
+
+    ## Known Bugs or Issues
+    * Some spacing issues on the Home page when in phone mode.
+    * Logo in mobile view is obcured slightly by the header.
+    * In mobile view on the Contact page the user is required to move the screen over to see the full boxes and see small amount of text when in portrait view.
+    * When submitting the contact form you are taken to a correctly submitted form page, which requires the user to use the back button to exit.
+
+# Future Implementations
+There are a number of features which I would like to be able to implement in the future, these were however, not possible at current due to lack of knowledge and time constraints.
+    * I would like to have a modal open when a successful form is submitted thanking the user and informing them that someone will be in contact soon to confirm their order.
+    * I would like to be able to include a payment option in order to streamline the ordering process.
+    * I would like to include a more interactive image gallery which is more responsive across devices.
