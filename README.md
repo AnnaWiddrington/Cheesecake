@@ -51,17 +51,17 @@ The aim of Love, Elle-Leigh Cheesecakes is to provide potential or returning cus
 ## Wireframes
 Wireframes for this project were produced using [Balsamiq wireframes](https://balsamiq.com).
 Home Page wireframes:
-![Home page wireframe for desktop](readme-files/desktop/home-page.bmpr)
-![Home page wireframe for tablet](readme-files/tablet/ipad-home.bmpr)
-![Home page wireframe for mobile](readme-files/mobile/mobile-home.bmpr)
+![Home page wireframe for desktop](../Cheesecake/readme-files/desktop/home-page.bmpr)
+![Home page wireframe for tablet](../Cheesecake/readme-files/tablet/ipad-home.bmpr)
+![Home page wireframe for mobile](../Cheesecake/readme-files/mobile/mobile-home.bmpr)
 Menu Page wireframes:
-![Menu page wireframe for desktop](readme-files/desktop/menu-page.bmpr)
-![Menu page wireframe for tablet](readme-files/tablet/ipad-menu.bmpr)
-![Menu page wireframe for mobile](readme-files/mobile/mobile-menu.bmpr)
+![Menu page wireframe for desktop](../Cheesecake/readme-files/desktop/menu-page.bmpr)
+![Menu page wireframe for tablet](../Cheesecake/readme-files/tablet/ipad-menu.bmpr)
+![Menu page wireframe for mobile](../Cheesecake/readme-files/mobile/mobile-menu.bmpr)
 Contact Page wireframes:
-![Contact page wireframe for desktop](readme-files/desktop/contact-page.bmpr)
-![Contact page wireframe for tablet](readme-files/tablet/ipad-contact.bmpr)
-![Contact page wireframe for mobile](readme-files/mobile/mobile-contact.bmpr)
+![Contact page wireframe for desktop](../Cheesecake/readme-files/desktop/contact-page.bmpr)
+![Contact page wireframe for tablet](../Cheesecake/readme-files/tablet/ipad-contact.bmpr)
+![Contact page wireframe for mobile](../Cheesecake/readme-files/mobile/mobile-contact.bmpr)
 
 ## Site Structure
 Love, Elle-Leigh Cheesecakes is a three page website providing information on the business and the service they provide, the default loading page is the [Home Page](index.html). Other pages on the site include the [Menu Page](menu.html) and the [Contact Page](contact.html). The Navbar on the top right allows the user to navigate between all three pages, pressing on the logo at the top of the page will also return the user to the home page.
