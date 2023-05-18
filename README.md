@@ -21,7 +21,7 @@ image
         * [**CSS Validation**](<#css>)
     * [**User Experience Testing**](<#user-experience>)
     * [**Known Bugs or Issues**](<#bugs>)
-* [**Future Implementations**] (<#implementations>)
+* [**Future Implementations**](<#implementations>)
 * [**Deployments**](<#deployments>)
     * [**GitHub Pages**](<#github>)
     * [**Forking**](<#forking>)
