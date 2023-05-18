@@ -246,6 +246,13 @@ form {
     padding: 15px;
 }
 
+@media screen and (Max-width=600px){
+    .contact {
+        font-size: 12px;
+        padding-left: 15px;
+    }
+}
+
 
 /*-------------------Hover.css*/
 
