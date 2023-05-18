@@ -67,9 +67,6 @@ header {
     margin: 0;
 }
 
-.menu {
-    font-size: 0;
-}
 
 #nav-bar li {
     font-size: 14px;
@@ -157,23 +154,12 @@ body {
     padding-right: 10px;
 }
 
-.test-1 {
-    color:#fff;
-}
-
-.test-2 {
-    color: #fff;
-}
-
-.test-3 {
-    color:#fff;
-}
 
 /*-------------------Menu.html*/
 
 .menu-title {
     font-family: "Dancing Script", sans-serif;
-    font-size: 60;
+    font-size: 60px;
     font-weight: 400;
     margin-top: 50px;
     color: #2e2e2e;
@@ -182,7 +168,7 @@ body {
 
 .flavours {
     font-family: "Exo", sans-serif;
-    font-size: 38;
+    font-size: 38px;
     font-weight: 600;
     padding: 15px;
     color: #2e2e2e;
@@ -190,7 +176,7 @@ body {
 
 .examples {
     font-family: 'Exo', sans-serif;
-    font-size: 30;
+    font-size: 30px;
     font-weight: 600;
     padding: 30px;
     color: #2e2e2e;
@@ -210,7 +196,7 @@ body {
 
 .info {
     font-family: 'Exo', sans-serif;
-    font-size: 30;
+    font-size: 30px;
     font-weight: 600;
     padding: 30px;
     color: #2e2e2e; 
@@ -221,19 +207,19 @@ body {
 
 .button {
     background-color: #f25fc3;
-    color: #2e2e2e;
+    color: #000;
 
 }
 
 legend {
-    font-size: 28;
+    font-size: 28px;
     font-weight: 200;
 }
 
 legend, label, .contact {
     font-family: "Exo", sans-serif;
     color: #1d0a01;
-    font-size: 23;
+    font-size: 23px;
 }
 
 
@@ -290,13 +276,10 @@ h4 {
 /*-------------------Footer*/
 
 footer {
-    background: #f6aade;
+    background: #f6alde;
     text-align: center;
     min-height: 60px;
 }
-
-
-
 .socials {
     padding-bottom: 15px;
     padding-top: 20px;
