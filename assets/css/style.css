@@ -242,7 +242,7 @@ form {
 
 
 .contact-us {
-    float: right;
+    clear: both;
     display: inline;
 }
 
