@@ -22,6 +22,12 @@ image
     * [**User Experience Testing**](<#user-experience>)
     * [**Known Bugs or Issues**](<#bugs>)
 * [**Future Implementations**] (<#implementations>)
+* [**Deployments**](<#deployments>)
+    * [**GitHub Pages**](<#github>)
+    * [**Forking**](<#forking>)
+    * [**Cloning**](<#cloning>)
+* [**Credits**](<#credits>)
+* [**Acknowledgements**](<#acknowledgements>)
 
 # User Experience (UX)
 
@@ -274,4 +280,6 @@ Further credit should be given to:
     * [Slack](https://slack.com/intl/en-gb/) Used for advice and to search for code fixes when required.
 
 # Acknowledgements
-    *
+    * I would like to thank my mentor Daisy Mc Girr for her invaluable support and advice.
+    * I would also like to thank Peter Write for his invaluable teachings week in and week out.
+    *I would also like to thank members of the slack community who posted their own work, allowing me to see a number of examples on how to write a README.md file.
