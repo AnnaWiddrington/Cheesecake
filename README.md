@@ -158,3 +158,29 @@ The website was tested through out to ensure its responsiveness on a variety of 
         [CSS Validator](readme-files/Screenshot%202023-05-18%20at%2018-06-43%20W3C%20CSS%20Validator%20results%20for%20TextArea%20(CSS%20level%203%20SVG).png)
     
     ## User Experience Testing
+    * As a user of this site I need to be able to find information quickly and easily.
+        * Expectation
+            * To be able to navigate around the site easily while being able to find the information needed easily.
+        *Action
+            *Clicking on the descriptive navbar in order to move around the website.
+        * Result
+            * When clicked the page selected opens allowing the user to find the information they require with ease.
+    
+    * As a user of this site I require it to run smoothly and be able to move between the sites pages with ease.
+        * Expectation
+            * To have a working navigation bar to make site exploration smooth and uncomplicated.
+        * Action
+            * Test the navigation of the site by clicking on all pages within the navigation bar to ensure they work as required.
+        * Result
+            * When clicked on the navigation bar opening the corresponding page, allowing for easy navigation of the site.
+    
+    * As a user I would like to be able to use this site on any device.
+        * Expectation
+            * For the website to be responsive on a variety of devices and browsers.
+        *Action
+            *Test the reponsiveness of the site for different device sizes as well as, on a variety of different browsers
+        *Result
+            *When tested on different device sizes the site was found to respond to the different size without significant changes to the layout of the website.
+            *When tested on a variety of browsers the website was found to work on all types without any changes to the website layout.
+
+    
