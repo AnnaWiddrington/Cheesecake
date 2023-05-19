@@ -52,16 +52,25 @@ The aim of Love, Elle-Leigh Cheesecakes is to provide potential or returning cus
 Wireframes for this project were produced using [Balsamiq wireframes](https://balsamiq.com).
 Home Page wireframes:
 ![Home page wireframe for desktop](https://github.com/community/community/assets/123810847/88afd48b-3092-4240-bde0-d1a8b78b79c6)
+
 ![Home page wireframe for tablet](https://github.com/community/community/assets/123810847/2172d9d5-018b-462a-bce3-ed11b6420c1e)
+
 ![Home page wireframe for mobile](https://github.com/community/community/assets/123810847/6d49fb41-c78b-4d8f-bf17-ef6af6b22ac0)
+
 Menu Page wireframes:
 ![Menu page wireframe for desktop](https://github.com/community/community/assets/123810847/62408c74-c595-4c3c-ac55-9277c7ff995f)
+
 ![Menu page wireframe for tablet](https://github.com/community/community/assets/123810847/f1cf1013-58a8-49a1-9360-caef6247445c)
+
 ![mobile-menu](https://github.com/community/community/assets/123810847/459913e8-97fe-4bd5-a70e-5fba9ecac2c3)
+
 Contact Page wireframes:
 ![Contact page wireframe for desktop](https://github.com/community/community/assets/123810847/78b7fd5f-a050-4837-87fa-daa908ac798b)
+
 ![Contact page wireframe for tablet](https://github.com/community/community/assets/123810847/c7ae3db0-1669-4fad-803e-f23020b98923)
+
 ![mobile-contact](https://github.com/community/community/assets/123810847/a25064e3-0831-424f-9531-1cabbfedd4dc)
+
 
 ## Site Structure
 Love, Elle-Leigh Cheesecakes is a three page website providing information on the business and the service they provide, the default loading page is the [Home Page](index.html). Other pages on the site include the [Menu Page](menu.html) and the [Contact Page](contact.html). The Navbar on the top right allows the user to navigate between all three pages, pressing on the logo at the top of the page will also return the user to the home page.
@@ -78,7 +87,7 @@ The image used for the websites logo was sourced from [iStock](https://www.istoc
 ## Colour Scheme
 In order to make the website attractive I wanted to keep the colours used varying shades of the same colour, this allowed there to be consistency throughout the website. In order to find font colours which worked with the background colours I had, I used [WebAim](https://webaim.org/) in order to test the level of colour contrast. 
 A colour palette was also produced using [Coolors](https://coolors.co) this allowed me to see how well the background colours and font colours worked together.
-[Colour Palette](readme-files/colour-palette.png)
+![Colour palette](https://github.com/community/community/assets/123810847/01c02814-bc22-4d4a-a4d0-1b5df87a84f6)
 
 # Features
 The Love, Elle-Leigh Cheesecake website was designed with aim of it being easy and straight forward to use. All the websites pages have a fully operational navbar which allows the user to find the page they require with ease. The home page is also accessible by clicking the logo.
@@ -90,19 +99,19 @@ The websites pages are all reponsive for different viewports, including tablet a
 * When hovering over each item in the navigation bar a shadow will sweep from the bottom of the box to the top to indicate which page is being hovered over.
 * The user is also able to return to the home page by clicking on the logo located in the header.
 
-[Title and Navigation Bar](readme-files/title%26navbar.png)
+![Title and Navbar](https://github.com/community/community/assets/123810847/22746f56-1455-4964-9ab8-e5e125313752)
 
 ### Footer
 * The footer contains three links to social media site, these include Facebook, Instagram and Twitter
 * All these links open into seperate tabs so the user can easily navigate back to where they were without getting lost.
 * When hovering over the social media links they show as a darker pink in order to show the user where their mouse is hovering.
 
-[Footer with social media links](readme-files/Footer.png)
+![Footer](https://github.com/community/community/assets/123810847/a90da36e-7fc5-4948-88f7-2d1dd1cbfaa2)
 
 ### Home Page
 * The home page not only includes the heading, navbar and footer but also includes a video with full controls so the user is able to play and pause as required. There is also an "About Me" section on the home page which is accompanied by an image of a cheesecake. Finally at the bottom of the page there is a carousel containing customer reviews, alongside a map of the businesses location.
 
-[Home Page](readme-files/Screenshot%202023-05-17%20at%2021-13-16%20Love%20Elle-Leigh%20Cheesecakes.png)
+![Home page](https://github.com/community/community/assets/123810847/860b9a9c-010d-4c84-9ebc-e9e835d9a5f2)
 
 ### Carousel 
 * A carousel has been added to the home page in order to showcase reviews which have been made of Love, Elle-Leigh Cheesecakes. 
@@ -110,19 +119,19 @@ The websites pages are all reponsive for different viewports, including tablet a
 * There are next and previous navigation buttons which are fully functional.
 * Each image includes a written review.
 
-[Carousel image 1](readme-files/Screenshot%202023-05-17%20at%2016-14-12%20Love%20Elle-Leigh%20Cheesecakes.png)
-[Carousel image 2](readme-files/Screenshot%202023-05-17%20at%2016-02-29%20Love%20Elle-Leigh%20Cheesecakes.png)
-[Carousel image 3](readme-files/Screenshot%202023-05-17%20at%2016-02-40%20Love%20Elle-Leigh%20Cheesecakes.png)
+![Carousel image 1](https://github.com/community/community/assets/123810847/a3f1f7fc-67f4-469e-b738-1103495734eb)
+![Carousel image 2](https://github.com/community/community/assets/123810847/17cf28eb-2d6d-4832-85c2-805c73462801)
+![Carousel image 3](https://github.com/community/community/assets/123810847/8bbe8ffa-642e-421e-991e-4a75a823702d)
 
 ### Menu Page
 * Alongside the heading and footer the menu page also contains information regarding example of cheesecake flavours which are available as well as, a photo gallery which is arranged in four columns.
 
-[Menu Page](readme-files/Screenshot%202023-05-17%20at%2022-11-08%20Love%20Elle-Leigh%20Cheesecakes.png)
+![Menu Page](https://github.com/community/community/assets/123810847/ee9a47e3-63ca-4551-a0fb-26de52c74b4a)
 
 ### Contact Page
 * The contact page contains a form for potential customers to conmplete. The form requires the users name, email address, their flavour choice, any dietary requirements, when they require their order and any other details. A submit button is also present. The page also holds another map and an email address which can be used to contact the business.
 
-[Contact Page](readme-files/Screenshot%202023-05-17%20at%2022-37-12%20Love%20Elle-Leigh%20Cheesecakes.png)
+![Contact page](https://github.com/community/community/assets/123810847/255971a8-bafe-4629-acba-156290907edf)
 
 ## Future Features
 Some features which could be implemented in the future include:
@@ -158,11 +167,10 @@ Both the HTML and CSS of this site were valiudated using the W3C Validator.
 
 ### HTML Validation
 The HTML for all three pages on this website was tested through the W3C validator. This was returned with no errors or warnings to show.
-[HTML Validator](readme-files/Screenshot%202023-05-18%20at%2018-05-54%20Showing%20results%20for%20https%20__annawiddrington.github.io_Cheesecake_index.html%20-%20Nu%20Html%20Checker.png)
-
+![HTML validator](https://github.com/community/community/assets/123810847/4c8fc119-1ba9-4810-97aa-b2a785d88d79)
 ### CSS Validation
 The CSS for this website was tested through the CSS validator. The result of this is that there were no errors found.
-[CSS Validator](readme-files/Screenshot%202023-05-18%20at%2018-06-43%20W3C%20CSS%20Validator%20results%20for%20TextArea%20(CSS%20level%203%20SVG).png)
+![CSS validator](https://github.com/community/community/assets/123810847/d64e1fe0-d1d9-471f-a3ae-cd3e691e6b20)
     
 ## User Experience Testing
 * As a user of this site I need to be able to find information quickly and easily.
