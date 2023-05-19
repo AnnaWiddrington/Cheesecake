@@ -37,7 +37,7 @@ image
 
 ## User Stories
 ### Site Goals
-The aim of Love, Elle-Leigh Cheesecakes is to provide potential or returning customers with information on what the business provides. The website aims to provide customers with easy access to the products that the business provides, alongside a way in whih they are able to contact the business in order to enquire how to order from them.
+The aim of Love, Elle-Leigh Cheesecakes is to provide potential or returning customers with information on what the business provides. The website aims to provide customers with easy access to the products that the business provides, alongside a way in which they are able to contact the business in order to enquire how to order from them.
 
  ### User Goals:
 * As a user of this site I need to be able to find information quickly and easily.
@@ -64,7 +64,7 @@ Home Page wireframes:
 
 Menu Page wireframes:
 
-![Menu page wireframe for desktop](https://github.com/community/community/assets/123810847/62408c74-c595-4c3c-ac55-9277c7ff995f)
+![Menu page wireframe for desktop](https://github.com/community/community/assets/123810847/d4fd70a4-0598-4ca2-bf53-08d79978d859)
 
 ![Menu page wireframe for tablet](https://github.com/community/community/assets/123810847/f1cf1013-58a8-49a1-9360-caef6247445c)
 
@@ -84,7 +84,7 @@ Love, Elle-Leigh Cheesecakes is a three page website providing information on th
 The pages footer also contains external links to Facebook, Instagram and Twitter.
 
 ## Typography
-[Google Fonts](https://fonts.google.com) was used for Love, Elle-Leigh Cheesecakes. The main font used throughout the site is Exo, this is due to it being clear and easy to read. The Dancing Script font was also used for the "Elle-Leigh cheesecakes x" part of the title, this was to help that part of the title stand out to the user, this type of font is also more associated with elegance. Various part so the site use different font-weights these are between 100-700.
+[Google Fonts](https://fonts.google.com) was used for Love, Elle-Leigh Cheesecakes. The main font used throughout the site is Exo, this is due to it being clear and easy to read. The Dancing Script font was also used for the "Elle-Leigh cheesecakes x" part of the title, this was to help sections of the title stand out to the user, this type of font is also more associated with elegance. Various part so the site use different font-weights these are between 100-700.
 The backup font for all sections in the event they are unable to load and fail is sans serif. This font was chosen due to it easy accessibility.
 
 ## Imagery
@@ -92,7 +92,7 @@ The image used for the websites logo was sourced from [iStock](https://www.istoc
 [Font Awesome](https://fontawesome.com) was also used for all icons used throughout the website.
 
 ## Colour Scheme
-In order to make the website attractive I wanted to keep the colours used varying shades of the same colour, this allowed there to be consistency throughout the website. In order to find font colours which worked with the background colours I had, I used [WebAim](https://webaim.org/) in order to test the level of colour contrast. 
+In order to make the website attractive I wanted to keep the colours used varying shades of the same colour, this allowed there to be consistency throughout the website. To find font colours which worked with the background colours I had. I used [WebAim](https://webaim.org/) in order to test the level of colour contrast. 
 A colour palette was also produced using [Coolors](https://coolors.co) this allowed me to see how well the background colours and font colours worked together.
 ![Colour palette](https://github.com/community/community/assets/123810847/01c02814-bc22-4d4a-a4d0-1b5df87a84f6)
 
@@ -102,7 +102,7 @@ The websites pages are all reponsive for different viewports, including tablet a
     
 ## Current Features
 ### Navigation Bar
-* There is a navbar situated at the top of all pages on the Love, Elle-Leigh Cheesecakes website. This allows the user to easily navigate through the whole site without having to return to the home page each time or having to the back button.
+* There is a navbar situated at the top of all pages on the Love, Elle-Leigh Cheesecakes website. This allows the user to easily navigate through the whole site without having to return to the home page each time or having to use the back button.
 * When hovering over each item in the navigation bar a shadow will sweep from the bottom of the box to the top to indicate which page is being hovered over.
 * The user is also able to return to the home page by clicking on the logo located in the header.
 
@@ -130,10 +130,10 @@ The websites pages are all reponsive for different viewports, including tablet a
 
 ![Carousel image 2](https://github.com/community/community/assets/123810847/17cf28eb-2d6d-4832-85c2-805c73462801)
 
-![Carousel image 3](https://github.com/community/community/assets/123810847/8bbe8ffa-642e-421e-991e-4a75a823702d)
+![Carousel image 3](https://github.com/community/community/assets/123810847/7d372c36-6681-4e6b-97e4-1f5eae115298)
 
 ### Menu Page
-* Alongside the heading and footer the menu page also contains information regarding example of cheesecake flavours which are available as well as, a photo gallery which is arranged in four columns.
+* Alongside the heading and footer the menu page also contains information regarding examples of cheesecake flavours which are available as well as, a photo gallery which is arranged in four columns.
 
 ![Menu Page](https://github.com/community/community/assets/123810847/ee9a47e3-63ca-4551-a0fb-26de52c74b4a)
 
@@ -166,7 +166,7 @@ Frameworks, programs and libraries used:
 
 # Testing
 Testing was involved at every stage of the devlopment process of making the Love, Elle-Leigh Cheesecakes website. This ongoing progress was achieved using Firefox Developer Edition.
-The website was tested through out to ensure its responsiveness on a variety of devices. The site was also checked in the the W3c validation checker for both HTML and CSS.
+The website was tested through out to ensure it was responsive on a variety of devices. The site was also checked in the the W3c validation checker for both HTML and CSS.
 *This website was tested using Firefox Developer Edition, Google Chrome, Safari and Microsoft Edge.
 *The website was viewed on a variety of screen sizes including: desktops, laptops, tablets and mobile, this includes both android and apple devices.
 *Testing was completed to ensure all links worked as expected.
