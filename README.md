@@ -1,6 +1,10 @@
 # Love, Elle-Leigh Cheesecakes
 Love, Elle-Leigh Cheesecakes is a three page website advertising a ficticious cheesecake business. The aim of this website is to advertise the services provided by this business.
 
+![macbook-pro-mockup-with-a-white-iphone-6-in-front-view-a11923](https://github.com/community/community/assets/123810847/d71e8d12-e5ae-4656-905c-324c1bdbd205)
+
+![mockup-of-an-iphone-and-ipad-mini-in-frontal-view-portrait-position-over-a-png-background-a11897](https://github.com/community/community/assets/123810847/2ce732a3-630c-49c7-a0d3-05a301c318c9)
+
 image
 
 # Table of Contents
