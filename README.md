@@ -51,16 +51,17 @@ The aim of Love, Elle-Leigh Cheesecakes is to provide potential or returning cus
 ## Wireframes
 Wireframes for this project were produced using [Balsamiq wireframes](https://balsamiq.com).
 Home Page wireframes:
-![home-page](https://github.com/community/community/assets/123810847/2172d9d5-018b-462a-bce3-ed11b6420c1e)
-![Home page wireframe for mobile](../Cheesecake/readme-files/mobile/mobile-home.bmpr)
+![Home page wireframe for desktop](https://github.com/community/community/assets/123810847/88afd48b-3092-4240-bde0-d1a8b78b79c6)
+![Home page wireframe for tablet](https://github.com/community/community/assets/123810847/2172d9d5-018b-462a-bce3-ed11b6420c1e)
+![Home page wireframe for mobile](https://github.com/community/community/assets/123810847/6d49fb41-c78b-4d8f-bf17-ef6af6b22ac0)
 Menu Page wireframes:
-![Menu page wireframe for desktop](../Cheesecake/readme-files/desktop/menu-page.bmpr)
-![Menu page wireframe for tablet](../Cheesecake/readme-files/tablet/ipad-menu.bmpr)
-![Menu page wireframe for mobile](../Cheesecake/readme-files/mobile/mobile-menu.bmpr)
+![Menu page wireframe for desktop](https://github.com/community/community/assets/123810847/62408c74-c595-4c3c-ac55-9277c7ff995f)
+![Menu page wireframe for tablet](https://github.com/community/community/assets/123810847/f1cf1013-58a8-49a1-9360-caef6247445c)
+![mobile-menu](https://github.com/community/community/assets/123810847/459913e8-97fe-4bd5-a70e-5fba9ecac2c3)
 Contact Page wireframes:
-![Contact page wireframe for desktop](../Cheesecake/readme-files/desktop/contact-page.bmpr)
-![Contact page wireframe for tablet](../Cheesecake/readme-files/tablet/ipad-contact.bmpr)
-![Contact page wireframe for mobile](../Cheesecake/readme-files/mobile/mobile-contact.bmpr)
+![Contact page wireframe for desktop](https://github.com/community/community/assets/123810847/78b7fd5f-a050-4837-87fa-daa908ac798b)
+![Contact page wireframe for tablet](https://github.com/community/community/assets/123810847/c7ae3db0-1669-4fad-803e-f23020b98923)
+![mobile-contact](https://github.com/community/community/assets/123810847/a25064e3-0831-424f-9531-1cabbfedd4dc)
 
 ## Site Structure
 Love, Elle-Leigh Cheesecakes is a three page website providing information on the business and the service they provide, the default loading page is the [Home Page](index.html). Other pages on the site include the [Menu Page](menu.html) and the [Contact Page](contact.html). The Navbar on the top right allows the user to navigate between all three pages, pressing on the logo at the top of the page will also return the user to the home page.
