@@ -51,6 +51,7 @@ The aim of Love, Elle-Leigh Cheesecakes is to provide potential or returning cus
 ## Wireframes
 Wireframes for this project were produced using [Balsamiq wireframes](https://balsamiq.com).
 Home Page wireframes:
+
 ![Home page wireframe for desktop](https://github.com/community/community/assets/123810847/88afd48b-3092-4240-bde0-d1a8b78b79c6)
 
 ![Home page wireframe for tablet](https://github.com/community/community/assets/123810847/2172d9d5-018b-462a-bce3-ed11b6420c1e)
@@ -58,6 +59,7 @@ Home Page wireframes:
 ![Home page wireframe for mobile](https://github.com/community/community/assets/123810847/6d49fb41-c78b-4d8f-bf17-ef6af6b22ac0)
 
 Menu Page wireframes:
+
 ![Menu page wireframe for desktop](https://github.com/community/community/assets/123810847/62408c74-c595-4c3c-ac55-9277c7ff995f)
 
 ![Menu page wireframe for tablet](https://github.com/community/community/assets/123810847/f1cf1013-58a8-49a1-9360-caef6247445c)
@@ -65,6 +67,7 @@ Menu Page wireframes:
 ![mobile-menu](https://github.com/community/community/assets/123810847/459913e8-97fe-4bd5-a70e-5fba9ecac2c3)
 
 Contact Page wireframes:
+
 ![Contact page wireframe for desktop](https://github.com/community/community/assets/123810847/78b7fd5f-a050-4837-87fa-daa908ac798b)
 
 ![Contact page wireframe for tablet](https://github.com/community/community/assets/123810847/c7ae3db0-1669-4fad-803e-f23020b98923)
@@ -120,7 +123,9 @@ The websites pages are all reponsive for different viewports, including tablet a
 * Each image includes a written review.
 
 ![Carousel image 1](https://github.com/community/community/assets/123810847/a3f1f7fc-67f4-469e-b738-1103495734eb)
+
 ![Carousel image 2](https://github.com/community/community/assets/123810847/17cf28eb-2d6d-4832-85c2-805c73462801)
+
 ![Carousel image 3](https://github.com/community/community/assets/123810847/8bbe8ffa-642e-421e-991e-4a75a823702d)
 
 ### Menu Page
@@ -167,9 +172,12 @@ Both the HTML and CSS of this site were valiudated using the W3C Validator.
 
 ### HTML Validation
 The HTML for all three pages on this website was tested through the W3C validator. This was returned with no errors or warnings to show.
+
 ![HTML validator](https://github.com/community/community/assets/123810847/4c8fc119-1ba9-4810-97aa-b2a785d88d79)
+
 ### CSS Validation
 The CSS for this website was tested through the CSS validator. The result of this is that there were no errors found.
+
 ![CSS validator](https://github.com/community/community/assets/123810847/d64e1fe0-d1d9-471f-a3ae-cd3e691e6b20)
     
 ## User Experience Testing
